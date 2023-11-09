@@ -26,3 +26,13 @@ It is recommended to do the steps in the provided order:
   - Run the installation
   - When you open the app for the first time it will prompt you to sign in - use your GitHub account for this, and 
   the email you used to create your GitHub account
+
+
+## Covered topics in this tutorial
+
+- Navigate GitHub
+- Navigate the git GUI "GitKraken"
+- Clone a repository
+- Make a new branch, stage and commit changes
+- Merge branches and create pull requests
+- Review pull requests
